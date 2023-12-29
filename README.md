@@ -13,5 +13,5 @@ Web Developer with 4+ years of experience.  Works as a small developer.  Familia
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 
 ## 📊 Statistics
-[![Debarpan's github stats](https://github-readme-stats.vercel.app/api?username=Debarpan_Middya&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debarpan-Middya&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
